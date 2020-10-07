@@ -17,7 +17,6 @@ class ScoreDB(QWidget):
 
     def initUI(self):
         self.setGeometry(300, 300, 500, 250)
-        self.setWindowTitle('Assignment6')
         #label,LineEdit,ComboBox 추가
         label_name = QLabel('Name:')
         label_score = QLabel('Score:')
