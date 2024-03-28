@@ -1,2 +1,2 @@
-# 2020_software_project2
+# 2020_SWP2
 KMU 2020-2 Software Project2 AD project
